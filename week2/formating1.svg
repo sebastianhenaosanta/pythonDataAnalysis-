@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="formating1.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 86.5 60.5"
+   height="60.5mm"
+   width="86.5mm">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0066cc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1058" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1034" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="67"
+     inkscape:window-height="1025"
+     inkscape:window-width="1853"
+     showguides="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g6080-3"
+     inkscape:document-units="mm"
+     inkscape:cy="140.63423"
+     inkscape:cx="358.68628"
+     inkscape:zoom="2.0481267"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="translate(-85.834814,-39.854126)"
+       id="g6080-3">
+      <text
+         transform="scale(0.84886544,1.178043)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.99461px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224595"
+         x="121.76159"
+         y="48.003536"
+         id="text5320-1"><tspan
+           sodipodi:role="line"
+           id="tspan5318-2"
+           x="121.76159"
+           y="48.003536"
+           style="font-size:2.99461px;stroke-width:0.224595" /></text>
+      <g
+         transform="translate(-16.560665,-10.145876)"
+         id="g183">
+        <rect
+           y="50.168236"
+           x="102.56371"
+           height="59.663532"
+           width="24.663532"
+           id="rect5304-7"
+           style="fill:none;stroke:#000000;stroke-width:0.336468;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path5306-5"
+           d="M 127.39562,50.001295 V 110.00129"
+           style="fill:none;stroke:#000000;stroke-width:0.291696px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           id="path5308-3"
+           d="m 102.61286,60.179123 h 24.89091"
+           style="fill:none;stroke:#000000;stroke-width:0.187676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.187777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 102.61286,70.198247 h 24.91798"
+           id="path5310-5" />
+        <path
+           id="path5312-6"
+           d="m 102.61286,80.217371 h 24.91068"
+           style="fill:none;stroke:#000000;stroke-width:0.18775px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.187556px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 102.61286,100.25562 h 24.85928"
+           id="path5314-2" />
+        <path
+           id="path5316-9"
+           d="m 102.61286,90.236494 h 24.83441"
+           style="fill:none;stroke:#000000;stroke-width:0.187462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           id="text5332-6"
+           y="64.427185"
+           x="125.85307"
+           style="font-style:normal;font-weight:normal;font-size:5.83321px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.218745"
+           xml:space="preserve"
+           transform="scale(0.82675362,1.2095502)"><tspan
+             style="font-size:5.83321px;stroke-width:0.218745"
+             y="64.427185"
+             x="125.85307"
+             id="tspan5330-0"
+             sodipodi:role="line">New York</tspan></text>
+        <text
+           id="text82"
+           y="57.079399"
+           x="108.55406"
+           style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:4.93889px;stroke-width:0.264583"
+             y="57.079399"
+             x="108.55406"
+             id="tspan80"
+             sodipodi:role="line">City</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="110.14156"
+           y="67.133575"
+           id="text86"><tspan
+             sodipodi:role="line"
+             id="tspan84"
+             x="110.14156"
+             y="67.133575"
+             style="font-size:4.93889px;stroke-width:0.264583">NY</tspan></text>
+        <text
+           id="text116"
+           y="87.687134"
+           x="110.00613"
+           style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:4.93889px;stroke-width:0.264583"
+             y="87.687134"
+             x="110.00613"
+             id="tspan114"
+             sodipodi:role="line">N.Y</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="110.00613"
+           y="96.682976"
+           id="text120"><tspan
+             sodipodi:role="line"
+             id="tspan118"
+             x="110.00613"
+             y="96.682976"
+             style="font-size:4.93889px;stroke-width:0.264583">N.Y</tspan></text>
+        <text
+           id="text124"
+           y="106.73714"
+           x="110.00613"
+           style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:4.93889px;stroke-width:0.264583"
+             y="106.73714"
+             x="110.00613"
+             id="tspan122"
+             sodipodi:role="line">N.Y</tspan></text>
+      </g>
+      <g
+         transform="translate(-4.3898279,-10.808347)"
+         id="g204">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.336468;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1"
+           id="rect126"
+           width="24.663532"
+           height="59.663532"
+           x="151.89606"
+           y="50.830708" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.291696px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 176.72796,50.663767 V 110.66376"
+           id="path128" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.187676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 151.9452,60.841595 h 24.89091"
+           id="path130" />
+        <path
+           id="path132"
+           d="m 151.9452,70.860719 h 24.91798"
+           style="fill:none;stroke:#000000;stroke-width:0.187777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.18775px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 151.9452,80.879843 h 24.91068"
+           id="path134" />
+        <path
+           id="path136"
+           d="m 151.9452,100.91809 h 24.85928"
+           style="fill:none;stroke:#000000;stroke-width:0.187556px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.187462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 151.9452,90.898966 h 24.83441"
+           id="path138" />
+        <text
+           transform="scale(0.82675362,1.2095502)"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.83321px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.218745"
+           x="185.52303"
+           y="64.974884"
+           id="text142"><tspan
+             sodipodi:role="line"
+             id="tspan140"
+             x="185.52303"
+             y="64.974884"
+             style="font-size:5.83321px;stroke-width:0.218745">New York</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="157.88641"
+           y="57.741871"
+           id="text146"><tspan
+             sodipodi:role="line"
+             id="tspan144"
+             x="157.88641"
+             y="57.741871"
+             style="font-size:4.93889px;stroke-width:0.264583">City</tspan></text>
+        <text
+           id="text1495"
+           y="73.05291"
+           x="185.52303"
+           style="font-style:normal;font-weight:normal;font-size:5.83321px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.218745"
+           xml:space="preserve"
+           transform="scale(0.82675362,1.2095502)"><tspan
+             style="font-size:5.83321px;stroke-width:0.218745"
+             y="73.05291"
+             x="185.52303"
+             id="tspan1493"
+             sodipodi:role="line">New York</tspan></text>
+        <text
+           id="text1499"
+           y="56.225105"
+           x="185.52303"
+           style="font-style:normal;font-weight:normal;font-size:5.83321px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.218745"
+           xml:space="preserve"
+           transform="scale(0.82675362,1.2095502)"><tspan
+             style="font-size:5.83321px;stroke-width:0.218745"
+             y="56.225105"
+             x="185.52303"
+             id="tspan1497"
+             sodipodi:role="line">New York</tspan></text>
+        <text
+           transform="scale(0.82675362,1.2095502)"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.83321px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.218745"
+           x="185.52303"
+           y="81.365265"
+           id="text1503"><tspan
+             sodipodi:role="line"
+             id="tspan1501"
+             x="185.52303"
+             y="81.365265"
+             style="font-size:5.83321px;stroke-width:0.218745">New York</tspan></text>
+        <text
+           id="text1507"
+           y="89.240128"
+           x="185.52303"
+           style="font-style:normal;font-weight:normal;font-size:5.83321px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.218745"
+           xml:space="preserve"
+           transform="scale(0.82675362,1.2095502)"><tspan
+             style="font-size:5.83321px;stroke-width:0.218745"
+             y="89.240128"
+             x="185.52303"
+             id="tspan1505"
+             sodipodi:role="line">New York</tspan></text>
+      </g>
+      <path
+         id="path206"
+         d="m 111.89213,72.208331 h 29.9287"
+         style="fill:#0066cc;stroke:#000000;stroke-width:2.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+    </g>
+  </g>
+</svg>
